@@ -41,3 +41,13 @@
   1. **Amazon CloudFront:** A global Content Delivery Network (CDN) to serve static product media quickly to customers worldwide.
   2. **Amazon Aurora / Amazon RDS:** High-performance, multi-region relational database service for processing customer orders and inventory management.
   3. **AWS Auto Scaling & Elastic Load Balancing (ELB):** Automatically adjusts compute capacity to maintain smooth site performance during peak traffic spikes.
+
+## Checkpoint 5 – Service Mapping Reference Table
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
