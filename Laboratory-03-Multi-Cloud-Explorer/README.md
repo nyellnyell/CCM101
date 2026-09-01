@@ -26,7 +26,7 @@
 ### Terminal Output Screenshots
 
 ![Linux Terminal Investigation](screenshots/linux-investigation.png)
-*(Note: Save your terminal screenshot as `linux-investigation.png` in the `screenshots` folder)*
+
 
 ---
 
