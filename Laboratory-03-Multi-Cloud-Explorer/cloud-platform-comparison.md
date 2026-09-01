@@ -27,3 +27,14 @@
 
 4. **Which cloud platform would you personally choose and why?**  
    I would personally choose Amazon Web Services (AWS) because of its dominant market position, expansive documentation, and vast community support. Its mature ecosystem makes troubleshooting easier, and mastering AWS opens up extensive career opportunities in cloud architecture. Additionally, its comprehensive set of services allows for building scalable applications without third-party dependencies.
+
+
+## Checkpoint 5 – Service Mapping Reference Table
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
