@@ -1,5 +1,5 @@
 
-# Checkpoint 8 – Mission Reflection
+# Checkpoint 8 – Reflection
 
 ## Reflection Essay
 
