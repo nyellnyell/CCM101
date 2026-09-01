@@ -12,7 +12,7 @@ AWS operates a global infrastructure consisting of **AWS Regions** and **Availab
 ## Cloud Management Console
 The AWS Management Console is a web-based interface that allows users to manage and access AWS resources, monitor service usage, track billing, and configure security permissions.
 
-![AWS Management Console](Aws.PNG)
+![AWS Management Console](screenshots/aws-console.png)
 
 ## Four (4) Core Services
 1. **Amazon EC2 (Elastic Compute Cloud):** Provides resizable compute capacity in the cloud as virtual servers.
