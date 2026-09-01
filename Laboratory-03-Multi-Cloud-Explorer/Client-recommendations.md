@@ -42,12 +42,15 @@
   2. **Amazon Aurora / Amazon RDS:** High-performance, multi-region relational database service for processing customer orders and inventory management.
   3. **AWS Auto Scaling & Elastic Load Balancing (ELB):** Automatically adjusts compute capacity to maintain smooth site performance during peak traffic spikes.
 
-## Checkpoint 5 – Service Mapping Reference Table
+---
 
-| Service Category | AWS | Azure | GCP |
-| :--- | :--- | :--- | :--- |
-| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
-| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
-| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
-| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
-| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | Amazon Web Services (AWS) | Offers a broad Free Tier, flexible pay-as-you-go pricing, and scalable serverless tools that help startups grow without large initial capital expenditure. |
+| **Enterprise Organization** | Microsoft Azure / AWS | Provides enterprise-grade hybrid cloud support, robust security compliance certifications, and seamless scalability for large-scale operations. |
+| **Microsoft Environment** | Microsoft Azure | Offers native integration with Active Directory (Entra ID), Windows Server, Office 365, and existing Microsoft enterprise licensing agreements. |
+| **AI / Machine Learning** | Google Cloud Platform (GCP) | Leads the industry with Vertex AI, custom TPUs, and advanced big data processing services optimized for building and training AI models. |
+| **Kubernetes Deployment** | Google Cloud Platform (GCP) | As the creator of Kubernetes, GCP offers Google Kubernetes Engine (GKE), providing superior managed Kubernetes capabilities, performance, and operational efficiency. |
+| **Global Web Application** | Amazon Web Services (AWS) | Features an extensive global network of Regions, Availability Zones, and CloudFront Edge locations to ensure low-latency access and high availability worldwide. |
