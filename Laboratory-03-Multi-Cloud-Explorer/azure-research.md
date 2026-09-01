@@ -13,8 +13,6 @@ Microsoft Azure features a widespread global footprint organized into **Regions*
 The Azure Portal is a unified web-based console that serves as an alternative to command-line tools. It enables users to build, manage, and monitor everything from simple web apps to complex cloud deployments.
 
 ![Azure Management Console](screenshots/azure-console.png)
-*(Note: Replace `screenshots/azure-console.png` with your actual screenshot file path)*
-
 ## Four (4) Core Services
 1. **Azure Virtual Machines (VMs):** On-demand, scalable computing resources offering IaaS for Windows and Linux instances.
 2. **Azure Blob Storage:** Massively scalable object storage for unstructured data such as text, images, videos, and backups.
