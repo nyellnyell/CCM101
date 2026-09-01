@@ -12,8 +12,8 @@ GCP's infrastructure is built around **Regions**, **Zones**, and Google’s high
 ## Cloud Management Console
 The Google Cloud Console provides a web-based, graphical user interface to manage GCP resources, view usage metrics, configure IAM policies, and access Cloud Shell directly in the browser.
 
-![GCP Management Console](screenshots/gcp-console.png)
-*(Note: Replace `screenshots/gcp-console.png` with your actual screenshot file path)*
+![GCP Management Console](screenshots/gcp-console.PNG)
+
 
 ## Four (4) Core Services
 1. **Google Compute Engine (GCE):** Provides customizable Virtual Machines running on Google's infrastructure.
